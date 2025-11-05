@@ -4,7 +4,7 @@
 4. Child - Parent - Grandparent Hierarchy
 5. Clocked Hours
 6. Company Structure [Extra Difficult]
-7. Consecutive Logins [Difficult]
+7. Consecutive User Logins [Difficult]
 8. Count Mutual Friends [Difficult]
 9. Department Top 3 Salary
 10. Employees Check-in Details
